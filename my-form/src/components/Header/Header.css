@@ -1,0 +1,44 @@
+
+.header {
+  background-color: #fff;
+  padding: 10px;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo img {
+  width: 13vw; 
+  height: auto;
+}
+
+.navbar {
+  display: flex;
+}
+
+.navbar a {
+  color: black;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 2vw;
+}
+
+.user-icons {
+  display: flex;
+  align-items: center;
+}
+
+.user-icons img {
+  width: 2vw;
+  height: 4vw;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.user-icons i {
+  font-size: 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}

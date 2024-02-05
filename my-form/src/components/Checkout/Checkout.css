@@ -1,0 +1,12 @@
+.checkout_main {
+    display: flex;
+    background-image: url('../Checkout/Rectangle.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100vw;
+    height: 40vh;
+}
+.checkout_secondary{
+    margin: 1% auto;
+}
